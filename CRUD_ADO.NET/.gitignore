@@ -1,0 +1,10 @@
+packages/
+/CRUD_ADO.NET/.vs/
+/CRUD_ADO.NET/obj/
+/CRUD_ADO.NET/bin/
+/CRUD_ADO.NET/Properties/
+/CRUD_ADO.NET/CRUD_ADO.NET.csproj
+/CRUD_ADO.NET/Form1.resx
+/CRUD_ADO.NET/packages.config
+README.md
+LICENSE
